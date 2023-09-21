@@ -19,7 +19,7 @@ header {
     padding: 10px;
     display: flex;
     justify-content: center;
-    border: 10px solid #E0D2C3;
+    /* border: 10px solid #E0D2C3; */
     border-radius: 45px;
 }
 
@@ -44,7 +44,7 @@ footer {
     background-color: #93827F;
     display: flex;
     justify-content: center;
-    border: 10px solid #E0D2C3;
+    /* border: 10px solid #E0D2C3; */
     border-radius: 45px;
 }
 
