@@ -20,7 +20,7 @@ header {
     display: flex;
     justify-content: center;
     /* border: 10px solid #E0D2C3; */
-    border-radius: 45px;
+    /* border-radius: 45px; */
 }
 
 .dino, .table {
@@ -45,7 +45,7 @@ footer {
     display: flex;
     justify-content: center;
     /* border: 10px solid #E0D2C3; */
-    border-radius: 45px;
+    /* border-radius: 45px; */
 }
 
 .body_length{
