@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    width: 100%;
+    width: 100vw;
     background-color: #93827F;
     padding: 10px;
     display: flex;
@@ -38,7 +38,7 @@ img {
 }
 
 footer {
-    width: 100%;
+    width: 100vw;
     position: absolute;
     bottom: 0;
     background-color: #93827F;
